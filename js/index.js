@@ -77,7 +77,7 @@ const renderPage = (pageNum) => {
       <div class="area">${result.strArea}</div>\
       </div>\
       <div class="receipe-open" onclick="openModal(${index})">\
-      <img src="https://user-images.githubusercontent.com/57583693/226177240-e3c1389e-33db-4827-b44d-beca9036a57f.png" class="open-icon"/>
+      <img height="30px" src="https://user-images.githubusercontent.com/57583693/226177240-e3c1389e-33db-4827-b44d-beca9036a57f.png" class="open-icon"/>
       Receipe 
       </div>\
       </div>\
